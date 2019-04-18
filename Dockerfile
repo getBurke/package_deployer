@@ -6,8 +6,6 @@ RUN apt-get install -y python3
 
 RUN mkdir -p /opt/python
 
-RUN cd /opt/python
-
 COPY app /opt/python/app
 
 RUN chmod -R 777 /opt/python
