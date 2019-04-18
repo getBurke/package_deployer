@@ -2,8 +2,8 @@
 
      ## Install
 
-     	git clone https://github.com/getBurke/package_deployer.git
+       git clone https://github.com/getBurke/package_deployer.git
 	
-	cd package_deployer
+       cd package_deployer
 
-	bash ./install.sh
+       bash ./install.sh
